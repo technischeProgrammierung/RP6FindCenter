@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1536742412 source:c:\users\jansenjon\desktop\5. semester\3. technische programmierung\robot_programming\rp6examples_20120725f\rp6lib\rp6base\rp6robotbaselib.c
+	"RP6RobotBaseLib.h"
+
+1536742412 c:\users\jansenjon\desktop\5. semester\3. technische programmierung\robot_programming\rp6examples_20120725f\rp6lib\rp6base\rp6robotbaselib.h
+	"RP6RobotBase.h"
+	"RP6Config.h"
+	"RP6uart.h"
+	<avr/sleep.h>
+	<stdlib.h>
+
+1536742412 c:\users\jansenjon\desktop\5. semester\3. technische programmierung\robot_programming\rp6examples_20120725f\rp6lib\rp6base\rp6robotbase.h
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1536742412 c:\users\jansenjon\desktop\5. semester\3. technische programmierung\robot_programming\rp6examples_20120725f\rp6lib\rp6common\rp6config.h
+
+1536742412 c:\users\jansenjon\desktop\5. semester\3. technische programmierung\robot_programming\rp6examples_20120725f\rp6lib\rp6common\rp6uart.h
+	<avr/pgmspace.h>
+	<stdlib.h>
+	<string.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+
+1536742412 source:c:\users\jansenjon\desktop\5. semester\3. technische programmierung\robot_programming\rp6examples_20120725f\rp6lib\rp6common\rp6i2cslavetwi.c
+	"RP6I2CslaveTWI.h"
+
+1536742412 c:\users\jansenjon\desktop\5. semester\3. technische programmierung\robot_programming\rp6examples_20120725f\rp6lib\rp6common\rp6i2cslavetwi.h
+	<stdint.h>
+	<avr/interrupt.h>
+
+1536742412 source:c:\users\jansenjon\desktop\5. semester\3. technische programmierung\robot_programming\rp6examples_20120725f\rp6lib\rp6common\rp6uart.c
+	"RP6uart.h"
+
+1538491701 source:c:\users\jansenjon\desktop\5. semester\3. technische programmierung\robot_programming\program\findcenter\main.c
+	"main.h"
+	"RP6RobotBaseLib.h"
+
+1538491105 c:\users\jansenjon\desktop\5. semester\3. technische programmierung\robot_programming\program\findcenter\main.h
+
