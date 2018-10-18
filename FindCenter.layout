@@ -2,9 +2,19 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1555" topLine="56" />
+		</Cursor>
+	</File>
 	<File name="..\..\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="19092" topLine="613" />
+			<Cursor1 position="24446" topLine="168" />
+		</Cursor>
+	</File>
+	<File name="..\..\RP6Examples_20120725f\RP6Lib\RP6base\RP6RobotBaseLib.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4959" topLine="152" />
 		</Cursor>
 	</File>
 	<File name="..\..\RP6Examples_20120725f\RP6Lib\RP6common\RP6I2CslaveTWI.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -12,14 +22,14 @@
 			<Cursor1 position="2744" topLine="61" />
 		</Cursor>
 	</File>
-	<File name="main.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\..\RP6Examples_20120725f\RP6Lib\RP6common\RP6Config.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="180" topLine="0" />
+			<Cursor1 position="1723" topLine="28" />
 		</Cursor>
 	</File>
-	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="main.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="571" topLine="26" />
+			<Cursor1 position="790" topLine="22" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
